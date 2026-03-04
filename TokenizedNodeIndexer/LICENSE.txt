@@ -1,0 +1,32 @@
+Commercial Software License Agreement
+
+Copyright (c) 2026
+Author: Lusine Hovhannisyan
+
+All rights reserved.
+
+This software is provided under a paid commercial license.
+
+1. License Grant
+   Upon purchase, the Author grants you a non-exclusive, non-transferable, single-user license to install and use this software on one (1) computer for personal or internal business purposes.
+
+2. Restrictions
+   You may NOT:
+
+* Copy, share, sublicense, rent, lease, sell, or redistribute the software in whole or in part.
+* Use the software on multiple computers under a single license.
+* Reverse engineer, decompile, or modify the software for redistribution.
+
+3. Ownership
+   The software and all associated intellectual property rights remain the exclusive property of the Author.
+
+4. Disclaimer of Warranty
+   The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+5. Limitation of Liability
+   In no event shall the Author be liable for any damages arising from the use or inability to use this software.
+
+6. Termination
+   This license is automatically terminated if you violate any of the terms above. Upon termination, you must cease all use of the software and delete all copies.
+
+By using this software, you acknowledge that you have read and agree to this license.
